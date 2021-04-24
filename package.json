@@ -1,0 +1,17 @@
+{
+  "name": "express-starter-template-website-hbs",
+  "version": "1.0.0",
+  "description": "starter template for express web applications with hbs template engine",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "berkerozer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "hbs": "^4.1.2",
+    "mongoose": "^5.12.5"
+  }
+}
